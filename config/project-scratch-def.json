@@ -1,0 +1,12 @@
+{
+  "orgName": "Demo Company",
+  "edition": "Developer",
+  "username": "thedude@revature.com",
+  "adminEmail": "adereje100@gmail.com",
+  "features": [],
+  "settings": {
+    "orgPreferenceSettings": {
+      "s1DesktopEnabled": true
+    }
+  }
+}
